@@ -1,4 +1,4 @@
-I will write all the Algorithms and data structure in the rebo .
+I will write all the Algorithms and data structure for javaScript in this repository .
 
 ## resources
 
