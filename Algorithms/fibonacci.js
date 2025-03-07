@@ -70,12 +70,17 @@ console.log("====fast====");
 // fun = slow_fibonacci;
 // console.log("====slow====");
 
+
+/* for test logic*/
+
 // console.log(fun(3));
 // console.log(fun(2));
 // console.log(fun(7));
 // console.log(fun(17));
 
 
+
+/* for test time */
 fun(3);
 fun(2);
 fun(1000);
@@ -119,7 +124,6 @@ fun(21113334);
 fun(21113334);
 fun(21113334);
 fun(21113339);
-
 fun(21113334);
 fun(21113334);
 fun(21113334);
